@@ -7,12 +7,6 @@
 
       {
         "type": "item",
-        "title": "Glossary",
-        "uri": "docs/support/glossary.md"
-      },
-
-      {
-        "type": "item",
         "title": "Usage Guides",
         "uri": "docs/support/usage-guides.md"
       },
@@ -22,6 +16,13 @@
         "title": "FAQs",
         "uri": "docs/support/faqs.md"
       },
+
+      {
+        "type": "item",
+        "title": "Glossary",
+        "uri": "docs/support/glossary.md"
+      },
+
 
       {
         "type": "item",
