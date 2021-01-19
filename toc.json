@@ -33,12 +33,6 @@
         "type": "item",
         "title": "Contact Us",
         "uri": "docs/support/contact-us.md"
-      },
-
-      {
-        "type": "item",
-        "title": "Downloads",
-        "uri": "docs/Help/30-downloads.md"
       }
     ]
   }
