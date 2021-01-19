@@ -1,0 +1,44 @@
+{
+    "items": [
+      {
+        "type": "divider",
+        "title": "Support"
+      },
+
+      {
+        "type": "item",
+        "title": "Glossary",
+        "uri": "docs/support/glossary.md"
+      },
+
+      {
+        "type": "item",
+        "title": "Usage Guides",
+        "uri": "docs/support/usage-guides.md"
+      },
+
+      {
+        "type": "item",
+        "title": "FAQs",
+        "uri": "docs/support/faqs.md"
+      },
+
+      {
+        "type": "item",
+        "title": "Planned Updates",
+        "uri": "docs/support/planned-updates.md"
+      },
+
+      {
+        "type": "item",
+        "title": "Contact Us",
+        "uri": "docs/support/contact-us.md"
+      },
+
+      {
+        "type": "item",
+        "title": "Downloads",
+        "uri": "docs/Help/30-downloads.md"
+      }
+    ]
+  }
