@@ -10,7 +10,7 @@ An AISP (Account Information Service Provider) is authorised by a competent auth
 Anti-money laundering processes, regulations and laws.
 
 ## ASPSP
-The ASPSPs (Account Servicing Payment Service Providers) are the account providers, such as Santander, that offer read/write APIs. These APIs provide access to customer account information (for example, to AISPs) and also allow third-party providers (TPPs) to initiate payments from the account provider’s customers’ accounts.
+The ASPSPs (Account Servicing Payment Service Providers) are the account providers, such as Tide, that offer read/write APIs. These APIs provide access to customer account information (for example, to AISPs) and also allow third-party providers (TPPs) to initiate payments from the account provider’s customers’ accounts.
 
 The customer must give specific permission to the entity that wants to access their account information and initiate payments on their behalf.
 
@@ -34,7 +34,7 @@ In Open Banking, a Competent Authority is a regulator who can authorise entities
 The Open Banking Directory is the canonical list of providers who are authorised to take part in the Open Banking ecosystem. The directory handles authentication between registered providers.
 
 Directory Sandbox
-The Open Banking Directory Sandbox provides a test instance of the real directory so that providers can test their implementations before going live. You’ll need to registered with the Open Banking Directory Sandbox in order to use the Santander API sandbox.
+The Open Banking Directory Sandbox provides a test instance of the real directory so that providers can test their implementations before going live. You’ll need to registered with the Open Banking Directory Sandbox in order to use the Tide API sandbox.
 
 ## EBA
 The European Banking Authority sets the technical standards for Open Banking.
@@ -46,7 +46,7 @@ The technical standards set for Open Banking (and PSD2 in general) by the Europe
 The Financial Conduct Authority is the UK regulatory responsible for authorising participants in Open Banking. It is the UK’s Competent Authority.
 
 ## FCA Service Metrics
-FCA Service Metrics is an Open Banking API, offered by Santander and other Open Banking institutions, that provides bank account product information to make it easier for people to compare the offerings of different banks.
+FCA Service Metrics is an Open Banking API, offered by Tide and other Open Banking institutions, that provides bank account product information to make it easier for people to compare the offerings of different banks.
 
 ## KYC
 Regulations designed to prevent money laundering require that financial institutions can prove the identity of their customers. Know Your Customer is the process of verifying the customer’s identity and evaluating potential risk for illegal activity.
@@ -58,7 +58,7 @@ Open Banking Limited is the Open Banking Implementation Entity and it has been t
 Open Banking is the consumer-friendly name for the UK’s implementation of the second edition of European Union’s Payment Services Directive. Open Banking oversees the regulatory and technical framework, based on the requirements of the directive, of PSD2 in the UK.
 
 ## Open Data
-Under Open Banking, the Mandatory ASPs, such as Santander, must provide certain data through APIs that are available for anyone to access. These Open Data APIs include data such ATM and branch locations, as well as production details.
+Under Open Banking, the Mandatory ASPs, such as Tide, must provide certain data through APIs that are available for anyone to access. These Open Data APIs include data such ATM and branch locations, as well as production details.
 
 ## Payment gateway
 A payment gateway is an intermediary between a merchant services provider –– that facilitates the processing of payment cards –– and e-commerce software.
@@ -70,7 +70,7 @@ The second edition of the European Union’s Payment Services Directive sets the
 A Payment Initiation Services Provider is a service that uses Open Banking APIs to make a payment from a person’s bank account held at another institution, at their request.
 
 ## PSP
-A Payment Service Provider is any of the regulated Open Banking providers, including ASPSPs (such as Santander), PISPs, AISPs and CBPIIs.
+A Payment Service Provider is any of the regulated Open Banking providers, including ASPSPs (such as Tide), PISPs, AISPs and CBPIIs.
 
 ## PSR
 The Payment Service Regulations are the UK’s implementation of the second edition of the European Union’s Payment Service Directive (PSD2).
