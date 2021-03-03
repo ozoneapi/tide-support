@@ -20,7 +20,9 @@ Make a Dynamic Client Registration 'PUT' call with the new certificate DN to ass
 The 'tls_client_auth_subject_dn' claim in the DCR put call should be set to the new certificate subject
 
 e.g. in the DCR put call, set the tls_client_auth_subject_dn claim as below
-tls_client_auth_subject_dn="CN=0015800001041RHAAY,2.5.4.97=#132250534447422D4F422D556E6B6E6F776E303031353830303030313034315248414159,O=Ozone Financial Technology Limited,C=GB",
+<!-- theme: info -->
+
+> tls_client_auth_subject_dn="CN=0015800001041RHAAY,2.5.4.97=#132250534447422D4F422D556E6B6E6F776E303031353830303030313034315248414159,O=Ozone Financial Technology Limited,C=GB",
 
 Once the above call is successful , existing clients will get associated with the new certificates.
 Any resource server call with the old certificates will fail.
