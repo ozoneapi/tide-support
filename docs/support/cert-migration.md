@@ -12,9 +12,11 @@ This document is for TPPs who want to migrate their existing clients(registered 
 
 ### Register new certs for existing clients
 
-#### Invoke the token endpoint to obtain a client credentials grant token. TPP's should use their existing valid legacy certificates to call the token endpoint 
+#### 
+Invoke the token endpoint to obtain a client credentials grant token. TPP's should use their existing valid legacy certificates to call the token endpoint 
 
-#### Make a Dynamic Client Registration 'PUT' call with the new certificate DN to associate their existing clients with new eIDAS certs
+#### 
+Make a Dynamic Client Registration 'PUT' call with the new certificate DN to associate their existing clients with new eIDAS certs
 The 'tls_client_auth_subject_dn' claim in the DCR put call should be set to the new certificate subject
 
 e.g. in the DCR put call, set the tls_client_auth_subject_dn claim as below
