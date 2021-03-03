@@ -1,4 +1,4 @@
-# Usage guides
+# Certificate Migration
 
 This document is for TPPs who want to migrate their existing clients(registered with legacy certificates) to use the new eidas certificates
 
