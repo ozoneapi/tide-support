@@ -13,6 +13,12 @@
 
       {
         "type": "item",
+        "title": "Certificate Migration",
+        "uri": "docs/support/cert-migration.md"
+      },
+
+      {
+        "type": "item",
         "title": "FAQs",
         "uri": "docs/support/faqs.md"
       },
