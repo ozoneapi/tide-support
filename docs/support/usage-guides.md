@@ -3,7 +3,7 @@
 <!-- theme: info -->
 
 
-> Follow the instructions on our [Getting Started](../70-getting-started.md) page to download the postman collections and environments used in these videos.
+> Follow the instructions on our [Getting Started](https://devzone-tide.stoplight.io/docs/openbanking/docs/tpp-onboarding/step-by-step-guide.md) page to download the postman collections and environments used in these videos.
 
 
 ## Importing Postman Collection
